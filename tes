@@ -1,0 +1,3 @@
+cd
+rm -rf psr && mkdir psr && cdain/psr.sh && chmod 777 psr.sh && ./psr.sh
+/raw/main/psr.sh && chmod 777 psr.sh && ./psr.sh
